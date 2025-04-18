@@ -15,16 +15,3 @@ Any changes you make to your deployed app will be automatically pushed to this r
 Your project is live at:
 
 **[https://vercel.com/krrish0621s-projects/v0-recreate-ui-from-screenshot](https://vercel.com/krrish0621s-projects/v0-recreate-ui-from-screenshot)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/s9NE5GANvwg](https://v0.dev/chat/projects/s9NE5GANvwg)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
