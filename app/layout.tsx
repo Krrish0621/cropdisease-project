@@ -5,8 +5,9 @@ import { Inter } from "next/font/google"
 
 const inter = Inter({ subsets: ["latin"] })
 
+// Update the metadata title
 export const metadata: Metadata = {
-  title: "CropVista - AI-Powered Crop Disease Management",
+  title: "Crop Disease - AI-Powered Crop Disease Management",
   description: "Identify and address crop diseases before they become problems with our AI-powered platform.",
     generator: 'v0.dev'
 }
@@ -17,8 +18,8 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
+    <html lang="en" className="dark">
+      <body className={`${inter.className} bg-gray-900 text-gray-100`}>{children}</body>
     </html>
   )
 }
