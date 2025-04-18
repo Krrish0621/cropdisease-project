@@ -14,4 +14,4 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/krrish0621s-projects/v0-recreate-ui-from-screenshot](https://vercel.com/krrish0621s-projects/v0-recreate-ui-from-screenshot)**
+**[[https://vercel.com/krrish0621s-projects/v0-recreate-ui-from-screenshot](https://vercel.com/krrish0621s-projects/v0-recreate-ui-from-screenshot)](https://cropdisease-project.vercel.app/login)**
